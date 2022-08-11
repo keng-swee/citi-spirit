@@ -1,0 +1,17 @@
+.chart1 {
+  padding:40px;
+  width: 50%;
+  background-color: white;
+  border: thin solid white;
+  margin-left:40px;
+}
+
+.chart2 {
+  padding:30px;
+  width: 50%;
+  background-color: white;
+  border: thin solid white;
+  margin-bottom:20px;
+}
+
+.charts{display:flex; flex-direction:row; justify-content:space-evenly;margin-top: -10px;}
